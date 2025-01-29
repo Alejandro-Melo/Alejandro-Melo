@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alejandro Melo, a 17 years old coder, from Uruguay. I have coding for almost a year, and I wanna share my works and process here!
-- 👀 I’m interested in Front and BackEnd Developmente (Web Development), Crypto Development and ML!
-- 🌱 I’m currently learning HTML, CSS, JAVA, SQL, and JS! Looking forward to learn Python, PHP, and React soon!
-- 💞️ I’m looking to collaborate on nothing for now, this is a portfolio for the moment
+- 👋 Hi, I’m Alejandro Melo, a 20 years old coder, from Uruguay. I have coding for 4 years, and I wanna share my works and process here!
+- 👀 I’m interested in Front and BackEnd Development (Web Development) and Data science.
+- 🌱 I’m currently learning Ruby on Rails and Python.
 - 📫 How to reach me: alejandromelomaggio@gmail.com
