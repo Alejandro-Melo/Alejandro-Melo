@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Alejandro Melo and I'm 21 years old, from Uruguay. I have been coding for 6 years, and I wanna share my works and process here!
-- 👀 I’m interested in Front and BackEnd Development (Web Development) and Data science.
-- 🌱 I’m currently learning Ruby on Rails and Python.
+- My name is Alejandro Melo and I'm 21 years old, from Uruguay. I have been coding for 6 years, and I wanna share my works and process here!
+- My interests lies on Big Data and Distributed systems. I am passionate about building robust, efficient infrastructure.
 - 📫 How to reach me: alejandromelomaggio@gmail.com
